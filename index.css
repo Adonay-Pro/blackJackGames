@@ -1,0 +1,45 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url("/istockphoto-510657755-170667a.jpg");
+    background-size: cover;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    padding-top: 150px;
+}
+
+h1 {
+    font-size: 70px;
+    color: goldenrod;
+}
+
+#message-el {
+    font-size: 33px;
+    font-style: italic;
+    font-weight: 300;
+}
+
+#cards-el, #sum-el{
+    font-size: 20px;
+}
+
+button {
+    color: #fff;
+    width: 310px;
+    height: 34px;
+    background: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 2px;
+    margin-top: 5px;
+    font-size: 17px;
+    letter-spacing: 5px;
+    
+    }
+
+    #player-el{
+        font-size: 21px;
+    }
